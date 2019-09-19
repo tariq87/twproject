@@ -1,0 +1,7 @@
+terraform.tfvars
+terraform.tfstate.backup
+userdata
+aws_hosts
+companyNews.war
+static.zip
+static
